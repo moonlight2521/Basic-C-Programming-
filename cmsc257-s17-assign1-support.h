@@ -3,15 +3,6 @@
 #include <stdio.h>
 
 
-////////////////////////////////////////////////////////////////////////////////
-//
-//  File          : cmsc257-s17-assign1-support.h
-//  Description   : This is a set of general-purpose utility functions we use
-//                  for the 257 assignment #1.
-//
-
-//
-// Functional Prototypes
 
 int float_display_array(int  a[], int size){
 // This function prints out the array of floating point values
